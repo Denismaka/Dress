@@ -37,11 +37,12 @@
                                 Services
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Conception et planification</a></li>
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Construction et réalisation</a></li>
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Gestion de chantier</a></li>
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Services aux clients </a></li>
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Expertise et innovation</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Couture Sur Mesure</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Retouches et Ajustements</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Consultation en Style</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Services de Broderie</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Réparation de Vêtements</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Ateliers de Couture</a></li>
                                 <li><a class="dropdown-item " style="color: #000;" href="#">Autres...</a></li>
                             </ul>
                         </li>
