@@ -2,7 +2,7 @@ Bienvenue sur notre site de couture
 Notre site est en cours de développement et vise à offrir une expérience unique dans le monde de la couture. 
 Nous sommes passionnés par la création de vêtements sur mesure et d'accessoires qui reflètent votre style personnel.
 
-Sections du Site
+*** Sections du Site ***
 Home : Découvrez notre univers de couture et les dernières actualités.
 
 About : Apprenez-en plus sur notre maison de couture, notre équipe et notre philosophie.
@@ -21,6 +21,20 @@ Création de Patrons : Élaboration de patrons de couture sur mesure pour des pr
 Ateliers de Couture : Organisation d'ateliers pour enseigner la couture aux débutants et aux avancés.
 Projets : Consultez nos projets récents et découvrez notre savoir-faire à travers nos réalisations.
 
+*** Technologies Utilisées ***
+HTML
+CSS
+Bootstrap
+ScrollReveal
+JavaScript
+PHP
+
+Contact
+Pour toute question ou collaboration, n'hésitez pas à me contacter :
+
+Email : makadenis370@gmail.com
+Téléphone : +243818252385, +243997435030.
+Réseaux sociaux : Suivez-moi sur https://twitter.com/MakaDenis3, https://www.linkedin.com/in/Denismaka, https://github.com/Denismaka,https://www.facebook.com/Denismaka
 
 
 Remarque
