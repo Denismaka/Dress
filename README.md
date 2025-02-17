@@ -10,10 +10,15 @@ Nous sommes passionnés par la création de vêtements sur mesure et d'accessoir
 -Services : Explorez les différents services que nous proposons :
 
 *Couture Sur Mesure : Création de vêtements personnalisés adaptés à vos mesures et préférences.
+
 *Retouches et Ajustements : Modification de vêtements existants pour un ajustement parfait.
+
 *Consultation en Style : Conseils personnalisés pour choisir des vêtements qui vous conviennent.
+
 *Services de Broderie : Ajout de broderies personnalisées sur des vêtements ou des accessoires.
+
 *Réparation de Vêtements : Réparation de vêtements endommagés ou usés.
+
 *Ateliers de Couture : Organisation d'ateliers pour enseigner la couture aux débutants et aux avancés.
 
 
