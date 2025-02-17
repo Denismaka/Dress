@@ -25,3 +25,53 @@
 .navbar .container .navbar-brand {
   color: var(--red);
 }
+
+/* ############## */
+/* About */
+/* ############## */
+#about .container {
+  padding-: 10rem;
+}
+#about .container .col-md-6 .btn {
+  background-color: var(--red);
+  color: var(--white);
+}
+#about .container .col-md-6 .btn:hover {
+  background-color: var(--black);
+  color: var(--white);
+  transition: 0.5s ease-in-out;
+}
+#about .container .col-md-6 .thumb {
+  position: relative;
+}
+#about .container .col-md-6 .thumb a {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  line-height: 70px;
+  text-align: center;
+  background-color: var(--red);
+  color: var(--white);
+  border-radius: 50%;
+  transform: translate(-35px, -35px);
+  transition: all 0.3s;
+}
+#about .container .col-md-6 .thumb a:hover {
+  opacity: 0.9;
+}
+#about .container .row .col-md-6:last-child .play-btn {
+  background-color: var(--red);
+  color: var(--white);
+  animation: pulse 2s ease infinite;
+}
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 var(--white);
+  }
+  100% {
+    box-shadow: 0 0 0 40px transparent;
+  }
+}
