@@ -119,6 +119,20 @@
             </div>
         </div>
     </section>
+    <!-- design  -->
+    <section class="design" id="design">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2><strong>Votre</strong> design, <strong>nous</strong> le livrons.</h2>
+                    <p>Chez nous, chaque création est le reflet de votre vision. Que vous ayez une idée précise en tête ou que vous souhaitiez simplement explorer des possibilités, notre équipe est là pour transformer vos concepts en réalité. Nous nous engageons à fournir des vêtements et des accessoires de haute qualité, entièrement personnalisés selon vos goûts et vos besoins. Avec un service soigné et une attention particulière aux détails, nous faisons en sorte que chaque pièce soit unique et parfaitement adaptée à vous. Laissez-nous donner vie à vos idées !</p>
+                </div>
+                <div class="col-md-6">
+                    <a href="" class="btn">Réservez votre rendez-vous</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <!-- ############## -->
