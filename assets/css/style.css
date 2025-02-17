@@ -30,7 +30,7 @@
 /* About */
 /* ############## */
 #about .container {
-  padding-: 10rem;
+  padding-top: 10rem;
 }
 #about .container .col-md-6 .btn {
   background-color: var(--red);
