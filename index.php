@@ -105,9 +105,16 @@
     <section class="about" id="about">
         <div class="container">
             <div class="row">
-                <div class="heading">
+                <div class="col-md-6">
                     <h2>25 années d'experiences</h2>
                     <p>Bienvenue dans notre maison de couture, où l’art de la couture rencontre la passion de la création. Forts d'une expérience de plusieurs années dans le domaine, nous nous engageons à offrir des vêtements sur mesure qui reflètent votre personnalité et votre style unique. Chaque pièce que nous réalisons est conçue avec soin, en utilisant des matériaux de haute qualité et des techniques artisanales. Nous croyons que chaque client mérite une attention personnalisée, c'est pourquoi notre équipe d'experts est là pour vous accompagner tout au long du processus, de la conception à la réalisation. Que vous recherchiez une robe de mariée élégante, des retouches précises ou des conseils en style, notre objectif est de transformer vos idées en réalité textile. Dans notre atelier, la créativité n’a pas de limites, et nous sommes impatients de vous aider à exprimer votre individualité à travers la mode.</p>
+                    <a href="#" class="btn text-uppercase">en savoir plus</a>
+                </div>
+                <div class="col-md-6">
+                    <div class="thumb">
+                        <a rel="nofollow" href="http://youtube.com" class="play-btn"><i class="fa fa-play"></i></a>
+                        <img src="assets/images/about-01.jpg" class="img-fluid rounded" alt="">
+                    </div>
                 </div>
             </div>
         </div>
