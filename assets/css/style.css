@@ -10,6 +10,14 @@
   --black: #000;
   --white: #ffffff;
 }
+/*Scrollbar CSS*/
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--blue);
+}
 
 /* ############## */
 /* Navbar */
