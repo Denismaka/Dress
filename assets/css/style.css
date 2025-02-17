@@ -10,3 +10,10 @@
   --black: #000;
   --white: #ffffff;
 }
+
+/* ############## */
+/* Navbar */
+/* ############## */
+.navbar .container .navbar-brand {
+  color: var(--red);
+}

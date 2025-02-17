@@ -66,7 +66,41 @@
     <!-- About-->
     <!-- ############## -->
 
-
+    <section class="home" id="home" style="margin-top: -3.5rem;">
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="carousel-item active" style="height: 99.9vh;">
+                    <img src="/assets/images/banner-01.jpg" class="d-block w-100" alt="..." style="filter: brightness(40%); background-position: center;">
+                    <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
+                        <h1 class="text-capitalize">Atelier de Style</strong></h1>
+                        <h2>Transformez vos idées en réalité textile.</h2>
+                    </div>
+                </div>
+                <div class="carousel-item" style="height: 99.9vh;">
+                    <img src="/assets/images/banner-02.jpg" class="d-block w-100" alt="..." style="filter: brightness(40%);">
+                    <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
+                        <h1>Créations Sur Mesure</h1>
+                        <h2>Des vêtements uniques conçus spécialement pour vous.</h2>
+                    </div>
+                </div>
+                <div class="carousel-item" style="height: 99.9vh;">
+                    <img src="/assets/images/banner-03.jpg" class="d-block w-100" alt="..." style="filter: brightness(40%);">
+                    <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
+                        <h1>L'Art de la Couture.</h1>
+                        <h2>Alliez tradition et modernité dans chaque pièce.</h2>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Précédent</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Suivant</span>
+            </button>
+        </div>
+    </section>
     <!-- ############## -->
     <!-- Services-->
     <!-- ############## -->
