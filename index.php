@@ -138,6 +138,51 @@
     <!-- ############## -->
     <!-- Services-->
     <!-- ############## -->
+    <section class="services" id="services">
+        <div class="container">
+            <div class="row">
+                <div class="heading">
+                    <h2 class="text-center"><strong>services</strong> offertes</h2>
+                </div>
+                <div class="col-md-4 my-3">
+                    <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card-content">
+                        <a href="#" class="text-decoration-none btn mt-5"><i class="fa fa-cart-plus fa-1x"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-4 my-3">
+                    <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card-content">
+                        <a href="#" class="text-decoration-none btn mt-5"><i class="fa fa-cart-plus fa-1x"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-4 my-3">
+                    <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card-content">
+                        <a href="#" class="text-decoration-none btn mt-5"><i class="fa fa-cart-plus fa-1x"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-4 my-3">
+                    <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card-content">
+                        <a href="#" class="text-decoration-none btn mt-5"><i class="fa fa-cart-plus fa-1x"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-4 my-3">
+                    <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card-content">
+                        <a href="#" class="text-decoration-none btn mt-5"><i class="fa fa-cart-plus fa-1x"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-4 my-3">
+                    <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card-content">
+                        <a href="#" class="text-decoration-none btn mt-5"><i class="fa fa-cart-plus fa-1x"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <!-- ############## -->
