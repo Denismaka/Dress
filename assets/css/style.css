@@ -30,7 +30,7 @@
 /* About */
 /* ############## */
 #about .container {
-  padding-top: 10rem;
+  padding-top: 15px;
 }
 #about .container .col-md-6 .btn {
   background-color: var(--red);
@@ -114,7 +114,6 @@
   box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
 }
 #services .container .row .col-md-4 .btn {
-  background-color: var(--red);
   color: var(--white);
 }
 #services .container .row .col-md-4 .btn:hover {
