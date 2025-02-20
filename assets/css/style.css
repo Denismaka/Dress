@@ -115,6 +115,7 @@
 }
 #services .container .row .col-md-4 .btn {
   color: var(--white);
+  background-color: var(--red);
 }
 #services .container .row .col-md-4 .btn:hover {
   background-color: var(--black);
