@@ -190,17 +190,25 @@
 
 
         <!-- ############## -->
-        <!-- Projet -->
+        <!-- Projets -->
         <!-- ############## -->
-
+        <section class="projets" id="projets">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>our <strong>works</strong></h2>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.</p>
+                        <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>0
+                    </div>
+                    <div class="col-md-6">
+                        <img src="/assets/images/about-01.jpg" class="img-fluid rounded" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- ############## -->
-        <!-- Qualité -->
-        <!-- ############## -->
-
-
-        <!-- ############## -->
-        <!-- Testimonials -->
+        <!-- Pages -->
         <!-- ############## -->
 
 
