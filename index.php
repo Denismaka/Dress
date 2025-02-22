@@ -201,6 +201,28 @@
                         <img src="/assets/images/about-01.jpg" class="img-fluid rounded" alt="">
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="/assets/images/banner-03.jpg" class="img-fluid rounded" alt="">
+                    </div>
+                    <div class="col-md-3">
+                        <i class="fab fa-facebook"></i>
+                        <strong>our design</strong>
+                        <div class="descri">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <img src="/assets/images/banner-03.jpg" class="img-fluid rounded" alt="">
+                    </div>
+                    <div class="col-md-3">
+                        <i class="fab fa-facebook"></i>
+                        <strong>our design</strong>
+                        <div class="descri">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
 
