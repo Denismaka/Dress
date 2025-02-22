@@ -139,54 +139,51 @@
         <!-- Services-->
         <!-- ############## -->
         <section class="services" id="services">
+            <div class="section-heading">
+                <h2>Nos produits</h2>
+            </div>
             <div class="container">
                 <div class="row">
-                    <div class="heading">
-                        <h2 class="text-center"><strong>services</strong> offertes</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 my-3 ">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card">
+                        <img src="assets/images/banner-01.jpg" alt="">
                         <div class="card-content">
-                            <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>
+                            <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
-                    <div class="col-md-4 my-3">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card">
+                        <img src="assets/images/banner-01.jpg" alt="">
                         <div class="card-content">
-                            <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>
+                            <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
-                    <div class="col-md-4 my-3">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card">
+                        <img src="assets/images/banner-01.jpg" alt="">
                         <div class="card-content">
-                            <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>
+                            <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 my-3">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card">
+                        <img src="assets/images/banner-01.jpg" alt="">
                         <div class="card-content">
-                            <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>
+                            <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
-                    <div class="col-md-4 my-3">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card">
+                        <img src="assets/images/banner-01.jpg" alt="">
                         <div class="card-content">
-                            <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>
+                            <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
-                    <div class="col-md-4 my-3">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded" alt="">
+                    <div class="card">
+                        <img src="assets/images/banner-01.jpg" alt="">
                         <div class="card-content">
-                            <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>
+                            <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
 
 
         <!-- ############## -->
