@@ -126,6 +126,9 @@
 /* ############## */
 /* Projets */
 /* ############## */
+#projets {
+  margin-top: 10rem;
+}
 #projets .container .row .col-md-6 .btn {
   color: var(--white);
   background-color: var(--red);
@@ -135,3 +138,7 @@
   color: var(--white);
   transition: 0.5s ease-in-out;
 }
+
+/* ############## */
+/* Contact */
+/* ############## */
