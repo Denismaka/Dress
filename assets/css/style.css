@@ -233,3 +233,64 @@
   padding: 15px;
   background-color: var(--white);
 }
+
+/* ############## */
+/* Contact */
+/* ############## */
+#contact {
+  margin-top: 10rem;
+}
+#contact .container .section_heading {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+#contact .container .row form {
+  width: 50rem;
+  margin: 1rem auto;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+#contact .container .row form .input-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+#contact .container .row form .input-box input,
+#contact .container .row form textarea {
+  width: 100%;
+  padding: 1.5rem;
+  font-size: 1.6rem;
+  color: var(--white);
+  background: var(--black);
+  border-radius: 0.8rem;
+  margin: 0.7rem 0;
+}
+
+#contact .container .row form .input-box input {
+  width: 49%;
+}
+#contact .container .row form textarea {
+  resize: none;
+  height: 150px;
+}
+#contact .container .row form a {
+  background-color: var(--black);
+  color: var(--white);
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+#contact .container .row form a:hover {
+  background-color: var(--red);
+  transition: 0.5s ease-in-out;
+}
+#contact form .input-box select {
+  width: 100%;
+  padding: 1.5rem;
+  font-size: 1.4rem;
+  color: #6e6e6e;
+  background: var(--black);
+  border-radius: 0.8rem;
+  margin: 0.7rem 0;
+  width: 49%;
+}
