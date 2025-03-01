@@ -294,3 +294,24 @@
   margin: 0.7rem 0;
   width: 49%;
 }
+.arrow {
+  height: 50px;
+  width: 50px;
+  background-color: var(--black);
+  color: var(--white);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+}
+/* .arrow img {
+  color: var(--white);
+} */
+.icone {
+  width: 50px;
+  filter: brightness(0) invert(1);
+}
