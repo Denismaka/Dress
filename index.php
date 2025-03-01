@@ -297,6 +297,42 @@
         </section>
 
         <!-- ################  -->
+        <!-- contact  -->
+        <!-- ################  -->
+        <section class="contact" id="contact">
+            <div class="container">
+                <div class="section_heading">
+                    <h4 class="text-capitalize">our blog posts</h4>
+                </div>
+                <div class="row">
+                    <form action="contact.php" method="POST">
+                        <div class="input-box">
+                            <input type="text" name="nom" placeholder="Nom" required />
+                            <input type="email" name="email" placeholder="Email" required />
+                        </div>
+                        <div class="input-box">
+                            <select name="sujet" required>
+                                <option value=""><span class="title">Choisissez un sujet</span></option>
+                                <option value="Couture Sur Mesure">Couture Sur Mesure</option>
+                                <option value="Retouches et Ajustements">Retouches et Ajustements</option>
+                                <option value="Consultation en Style">Consultation en Style</option>
+                                <option value="Services de Broderie">Services de Broderie</option>
+                                <option value="Réparation de Vêtements">Réparation de Vêtements</option>
+                                <option value="Ateliers de Couture">Ateliers de Couture</option>
+                                <option value="Ateliers de Couture">Autres...</option>
+                            </select>
+                            <input type="number" name="tel" placeholder="Téléphone" required />
+                        </div>
+                        <textarea placeholder="Message" name="messages" required></textarea>
+                        <a href="#" type="submit" name="submit" value="Envoyer" class="btn">Envoyer</a>
+                    </form>
+
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ################  -->
         <!-- Footer  -->
         <!-- ################  -->
 
