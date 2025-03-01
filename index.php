@@ -13,7 +13,9 @@
 </head>
 
 <body>
-
+    <div class="arrow">
+        <img src="/assets/images/arrow-up-solid-svgrepo-com.svg" class="icone" alt="">
+    </div>
     <!-- ############## -->
     <!-- NavBar -->
     <!-- ############## -->
