@@ -194,8 +194,8 @@
                 <div class="row">
                     <div class="col-md-6">
                         <h2>our <strong>works</strong></h2>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.</p>
-                        <a href="#" class="text-decoration-none btn mt-5">En savoir plus</a>0
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.</p>
+                        <a href="#" class="text-decoration-none btn">En savoir plus</a>
                     </div>
                     <div class="col-md-6">
                         <img src="/assets/images/about-01.jpg" class="img-fluid rounded" alt="">
@@ -205,9 +205,9 @@
                     <div class="col-md-3">
                         <img src="/assets/images/banner-03.jpg" class="img-fluid rounded" alt="">
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 text-center mt-3">
                         <i class="fab fa-facebook"></i>
-                        <strong>our design</strong>
+                        <h5 class="fw-bold text-capitalize">our design</h5>
                         <div class="descri">
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
                         </div>
@@ -215,9 +215,9 @@
                     <div class="col-md-3">
                         <img src="/assets/images/banner-03.jpg" class="img-fluid rounded" alt="">
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 text-center mt-3">
                         <i class="fab fa-facebook"></i>
-                        <strong>our design</strong>
+                        <h5 class="fw-bold text-capitalize">new styles</h5>
                         <div class="descri">
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
                         </div>
@@ -225,8 +225,6 @@
                 </div>
             </div>
         </section>
-
-
 
         <!-- ################  -->
         <!-- Contact  -->
