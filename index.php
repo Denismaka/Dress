@@ -227,9 +227,71 @@
         </section>
 
         <!-- ################  -->
-        <!-- Contact  -->
+        <!-- Blog  -->
         <!-- ################  -->
-
+        <section class="blog" id="blog">
+            <div class="container">
+                <div class="section_heading">
+                    <h4 class="text-capitalize">our blog posts</h4>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded">
+                        <div class="row">
+                            <div class="col-md-2 d-flex">
+                                <i class="fa fa-user"></i>
+                                <span>maurice</span>
+                            </div>
+                            <div class="col-md-2 d-flex">
+                                <i class="fa fa-user"></i>
+                                <span>18/02/2025</span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <h5 class="fw-bold">set a fashion trend!</h5>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <a href="#" class="text-capitalize text-decoration-none">en savoir plus</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded">
+                        <div class="row">
+                            <div class="col-md-2 d-flex">
+                                <i class="fa fa-user"></i>
+                                <span>maurice</span>
+                            </div>
+                            <div class="col-md-2 d-flex">
+                                <i class="fa fa-user"></i>
+                                <span>18/02/2025</span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <h5 class="fw-bold">set a fashion trend!</h5>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <a href="#" class="text-capitalize text-decoration-none">en savoir plus</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded">
+                        <div class="row">
+                            <div class="col-md-2 d-flex">
+                                <i class="fa fa-user"></i>
+                                <span>maurice</span>
+                            </div>
+                            <div class="col-md-2 d-flex">
+                                <i class="fa fa-user"></i>
+                                <span>18/02/2025</span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <h5 class="fw-bold">set a fashion trend!</h5>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <a href="#" class="text-capitalize text-decoration-none">en savoir plus</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <!-- ################  -->
         <!-- Footer  -->
