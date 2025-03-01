@@ -50,6 +50,9 @@
                             <a class="nav-link text-white" href="#">Projets</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link text-white" href="#">Blog</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link text-white" href="#">Contact</a>
                         </li>
                     </ul>
