@@ -206,9 +206,11 @@
 #blog {
   margin-top: 10rem;
 }
-#blog .container .section_heading {
+#blog .section-heading {
   text-align: center;
-  margin-bottom: 2rem;
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  margin-bottom: 5rem;
 }
 #blog .container .row .col-md-2 {
   margin-top: 1.2rem;
