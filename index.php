@@ -241,10 +241,13 @@
         <!-- Blog  -->
         <!-- ################  -->
         <section class="blog" id="blog">
+            <div class="section-heading">
+                <h2>our blog posts</h2>
+            </div>
             <div class="container">
-                <div class="section_heading">
+                <!-- <div class="section_heading">
                     <h4 class="text-capitalize">our blog posts</h4>
-                </div>
+                </div> -->
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/assets/images/banner-01.jpg" class="img-fluid rounded">
