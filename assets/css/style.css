@@ -333,10 +333,19 @@
 /* ############## */
 /* Footer */
 /* ############## */
-.footer {
-  min-height: 100vh;
+#footer {
+  min-height: 5vh;
   background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
     url(/assets/images/banner-01.jpg);
   background-size: cover;
   background-position: center;
+  color: var(--white);
+}
+#footer .container .col-md-4 .btn {
+  background-color: var(--red);
+  color: var(--white);
+}
+#footer .container .col-md-4 .btn:hover {
+  background-color: var(--black);
+  transition: 0.5s ease-in-out;
 }
