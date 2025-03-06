@@ -355,12 +355,12 @@
                         <div class="col-md-4 mb-3">
                             <h5>Liens</h5>
                             <ul class="nav flex-column">
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Services</a></li>
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Projets</a></li>
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Blog</a></li>
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Contact</a></li>
+                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
+                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Services</a></li>
+                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Projets</a></li>
+                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Blog</a></li>
+                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-md-4 mb-3">
@@ -370,7 +370,8 @@
                                 <div class="d-flex flex-column flex-sm-row w-100 gap-2">
                                     <label for="newsletter1" class="visually-hidden">Email address</label>
                                     <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
-                                    <button class="btn btn-primary" type="button">Subscribe</button>
+                                    <!-- <button class="btn btn-primary" type="button">Subscribe</button> -->
+                                    <a href="#" type="button" class="btn">S'abonner</a>
                                 </div>
                             </form>
                         </div>
