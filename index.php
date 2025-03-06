@@ -145,7 +145,7 @@
         <!-- ############## -->
         <section class="services" id="services">
             <div class="section-heading">
-                <h2>Nos produits</h2>
+                <h2>Nos services</h2>
             </div>
             <div class="container">
                 <div class="row">
