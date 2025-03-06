@@ -108,6 +108,9 @@
         <!-- About-->
         <!-- ############## -->
         <section class="about" id="about">
+            <div class="section-heading">
+                <h2>à propos</h2>
+            </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
