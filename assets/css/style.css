@@ -181,6 +181,12 @@
 #projets {
   margin-top: 10rem;
 }
+#projets .section-heading {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  margin-bottom: 5rem;
+}
 #projets .container .row .col-md-6 .btn {
   color: var(--white);
   background-color: var(--red);
