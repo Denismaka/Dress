@@ -349,3 +349,12 @@
   background-color: var(--black);
   transition: 0.5s ease-in-out;
 }
+
+/* ############## */
+/* Responsive */
+/* ############## */
+@media screen and (max-width: 480px) {
+  #about {
+    margin-top: -30rem;
+  }
+}
