@@ -153,37 +153,37 @@
             <div class="container">
                 <div class="row">
                     <div class="card">
-                        <img src="assets/images/banner-01.jpg" alt="">
+                        <img src="assets/images/services-01.jpg" alt="">
                         <div class="card-content">
                             <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
                     <div class="card">
-                        <img src="assets/images/banner-01.jpg" alt="">
+                        <img src="assets/images/services-02.jpg" alt="">
                         <div class="card-content">
                             <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
                     <div class="card">
-                        <img src="assets/images/banner-01.jpg" alt="">
+                        <img src="assets/images/services-03.jpg" alt="">
                         <div class="card-content">
                             <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
                     <div class="card">
-                        <img src="assets/images/banner-01.jpg" alt="">
+                        <img src="assets/images/services-04.jpg" alt="">
                         <div class="card-content">
                             <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
                     <div class="card">
-                        <img src="assets/images/banner-01.jpg" alt="">
+                        <img src="assets/images/services-05.jpg" alt="">
                         <div class="card-content">
                             <a href="#" class="btn">En savoir plus</a>
                         </div>
                     </div>
                     <div class="card">
-                        <img src="assets/images/banner-01.jpg" alt="">
+                        <img src="assets/images/services-06.jpg" alt="">
                         <div class="card-content">
                             <a href="#" class="btn">En savoir plus</a>
                         </div>
@@ -209,12 +209,12 @@
                         <a href="#" class="text-decoration-none btn">En savoir plus</a>
                     </div>
                     <div class="col-md-6">
-                        <img src="/assets/images/about-01.jpg" class="img-fluid rounded" alt="">
+                        <img src="/assets/images/projets.jpg" class="img-fluid rounded" alt="">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-3">
-                        <img src="/assets/images/banner-03.jpg" class="img-fluid rounded" alt="">
+                        <img src="/assets/images/design-01.jpg" class="img-fluid rounded" alt="">
                     </div>
                     <div class="col-md-3 text-center mt-3">
                         <i class="fab fa-facebook"></i>
@@ -224,7 +224,7 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <img src="/assets/images/banner-03.jpg" class="img-fluid rounded" alt="">
+                        <img src="/assets/images/design-02.jpg" class="img-fluid rounded" alt="">
                     </div>
                     <div class="col-md-3 text-center mt-3">
                         <i class="fab fa-facebook"></i>
@@ -247,7 +247,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded">
+                        <img src="/assets/images/blog-01.jpg" class="img-fluid rounded">
                         <div class="row">
                             <div class="col-md-2 d-flex">
                                 <i class="fa fa-user"></i>
@@ -265,7 +265,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded">
+                        <img src="/assets/images/blog-02.jpg" class="img-fluid rounded">
                         <div class="row">
                             <div class="col-md-2 d-flex">
                                 <i class="fa fa-user"></i>
@@ -283,7 +283,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <img src="/assets/images/banner-01.jpg" class="img-fluid rounded">
+                        <img src="/assets/images/blog-03.jpg" class="img-fluid rounded">
                         <div class="row">
                             <div class="col-md-2 d-flex">
                                 <i class="fa fa-user"></i>
@@ -370,7 +370,6 @@
                                 <div class="d-flex flex-column flex-sm-row w-100 gap-2">
                                     <label for="newsletter1" class="visually-hidden">Email address</label>
                                     <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
-                                    <!-- <button class="btn btn-primary" type="button">Subscribe</button> -->
                                     <a href="#" type="button" class="btn">S'abonner</a>
                                 </div>
                             </form>
