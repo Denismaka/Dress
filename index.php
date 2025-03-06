@@ -198,6 +198,9 @@
         <!-- Projets -->
         <!-- ############## -->
         <section class="projets" id="projets">
+            <div class="section-heading">
+                <h2>nos projets</h2>
+            </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
