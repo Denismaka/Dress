@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/font/css/all.min.css">
     <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="website icon" href="/assets/images/Patmos_Logo_2544cfe63a.webp" />
+    <link rel="website icon" href="/assets/images/logo.jpg" />
     <link rel="stylesheet" href="/assets/swiper/package/swiper-bundle.css">
     <title>Dress</title>
 </head>
