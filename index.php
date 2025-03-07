@@ -349,7 +349,8 @@
                     <div class="row">
                         <div class="col-md-4 mb-3">
                             <h5>Dress up</h5>
-                            <p>Bienvenue dans notre maison de couture, où l’art de la couture rencontre la passion de la création.</p>
+                            <p>Bienvenue dans notre maison de couture, où l’art de la couture rencontre la passion de la création.Chaque pièce que nous confectionnons est le reflet d'un savoir-faire exceptionnel et d'une attention minutieuse aux détails. Nos créations sont conçues pour sublimer votre style unique.
+                            </p>
                         </div>
 
                         <div class="col-md-4 mb-3">
