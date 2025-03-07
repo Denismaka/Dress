@@ -242,7 +242,7 @@
         <!-- ################  -->
         <section class="blog" id="blog">
             <div class="section-heading">
-                <h2>our blog posts</h2>
+                <h2>Nos articles de blog</h2>
             </div>
             <div class="container">
                 <div class="row">
@@ -259,8 +259,8 @@
                             </div>
                         </div>
                         <div class="row">
-                            <h5 class="fw-bold">set a fashion trend!</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <h5 class="fw-bold"> Lance une tendance de mode !</h5>
+                            <p>Inspirez-vous et devenez le créateur de votre propre style.</p>
                             <a href="#" class="text-capitalize text-decoration-none">en savoir plus</a>
                         </div>
                     </div>
@@ -277,8 +277,8 @@
                             </div>
                         </div>
                         <div class="row">
-                            <h5 class="fw-bold">set a fashion trend!</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <h5 class="fw-bold"> Lance une tendance de mode !</h5>
+                            <p>Explorez les dernières tendances et laissez votre empreinte dans le monde de la mode.</p>
                             <a href="#" class="text-capitalize text-decoration-none">en savoir plus</a>
                         </div>
                     </div>
@@ -295,8 +295,8 @@
                             </div>
                         </div>
                         <div class="row">
-                            <h5 class="fw-bold">set a fashion trend!</h5>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <h5 class="fw-bold"> Lance une tendance de mode !</h5>
+                            <p>Découvrez comment des choix audacieux peuvent redéfinir votre garde-robe.</p>
                             <a href="#" class="text-capitalize text-decoration-none">en savoir plus</a>
                         </div>
                     </div>
