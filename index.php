@@ -320,7 +320,7 @@
                         </div>
                         <div class="input-box">
                             <select name="sujet" required>
-                                <option value=""><span class="title">Choisissez un sujet</span></option>
+                                <option value=""><span class="title">Choisissez un service</span></option>
                                 <option value="Couture Sur Mesure">Couture Sur Mesure</option>
                                 <option value="Retouches et Ajustements">Retouches et Ajustements</option>
                                 <option value="Consultation en Style">Consultation en Style</option>
