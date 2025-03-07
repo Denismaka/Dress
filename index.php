@@ -204,8 +204,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>our <strong>works</strong></h2>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, illo. Quisquam officia architecto praesentium minus reprehenderit aliquid doloremque rem ipsam iusto, dignissimos labore vitae aliquam fuga ab facere nemo doloribus.</p>
+                        <h2>Nos <strong>réalisations</strong></h2>
+                        <p>Découvrez l'essence de notre créativité à travers des réalisations uniques qui racontent une histoire. Chaque création est le fruit d'un savoir-faire exceptionnel, alliant tradition et innovation. Plongez dans un univers où chaque détail compte et où votre style prend vie. Notre passion pour la mode se reflète dans chaque pièce, conçue pour sublimer votre personnalité et vous faire briller.</p>
                         <a href="#" class="text-decoration-none btn">En savoir plus</a>
                     </div>
                     <div class="col-md-6">
@@ -217,20 +217,20 @@
                         <img src="/assets/images/design-01.jpg" class="img-fluid rounded" alt="">
                     </div>
                     <div class="col-md-3 text-center mt-3">
-                        <i class="fab fa-facebook"></i>
-                        <h5 class="fw-bold text-capitalize">our design</h5>
+                        <i class="fas fa-paint-brush"></i>
+                        <h5 class="fw-bold text-capitalize">Notre design</h5>
                         <div class="descri">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <p>Laissez libre cours à votre imagination avec des designs qui inspirent</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <img src="/assets/images/design-02.jpg" class="img-fluid rounded" alt="">
                     </div>
                     <div class="col-md-3 text-center mt-3">
-                        <i class="fab fa-facebook"></i>
-                        <h5 class="fw-bold text-capitalize">new styles</h5>
+                        <i class="fas fa-star"></i>
+                        <h5 class="fw-bold text-capitalize">Nouveaux styles</h5>
                         <div class="descri">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab nam modi dolore libero eius placeat, </p>
+                            <p>Chaque création est une œuvre d'art, conçue pour capturer l'essence de votre style.</p>
                         </div>
                     </div>
                 </div>
